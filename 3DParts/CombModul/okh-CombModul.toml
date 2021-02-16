@@ -1,0 +1,12 @@
+okhv = "2.0"
+image = "Documentation/part-pictures/Parts_Print_3.jpg"
+tsdc-id = "COM-MAN"
+manufacturing-process = "3D printed"
+material = "PLA"
+outer-dimensions = "cube(size = [120,100,3]"
+smallest-tolerance-class = "m"
+source = "/3DParts/CombModul/CombModul.scad"
+export = [
+  "/3DParts/CombModul/CombModul.pdf",
+  "/3DParts/CombModul/CombModul.stl"
+]

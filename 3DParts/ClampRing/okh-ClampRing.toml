@@ -1,0 +1,12 @@
+okhv = "2.0"
+image = "Documentation/part-pictures/Parts_Print_2.jpg"
+tsdc-id = "COM-MAN"
+manufacturing-process = "3D printed"
+material = "PLA"
+outer-dimensions = "cylinder(h=30, r=28)"
+smallest-tolerance-class = "m"
+source = "/3DParts/ClampRing/ClampRing.scad"
+export = [
+  "/3DParts/ClampRing/ClampRing.pdf",
+  "/3DParts/ClampRing/ClampRing.stl"
+]

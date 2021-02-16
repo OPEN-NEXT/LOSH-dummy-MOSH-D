@@ -1,0 +1,14 @@
+POS	NAME	UNITS	TYPE	REFERENCE
+1	threaded rod M8	2	STD	DIN 795 M8 x 180
+2	M8 Nuts	4	STD	ISO 4032  M8
+3	M8 Nuts with Rubber	2	STD	ISO 7040 M8
+4	M6 Nuts	4	STD	ISO 4032  M6
+5	M6 Cylinder Screw	4	STD	ISO 8677 M6 x 70
+6	W60x4 Wood Screw	8	STD	DIN 7997 4 x 60
+7	W35x4 Wood Screw	4	STD	DIN 7997 4 x 35
+8	W12x4 Wood Screw	16	STD	DIN 7997 4 x 12
+10	Clamp Ring	2	POSH	/3DParts/ClampRing/okh-ClampRing.toml
+11	Comb Module	5	POSH	/3DParts/CombModul/okh-CombModul.toml
+15	Module B	1	MOSH	
+16	Module C	1	MOSH	
+17	3m String	1	BUY	⌀2…3 mm, Polypropylen
