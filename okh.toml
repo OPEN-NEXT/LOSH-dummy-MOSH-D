@@ -1,6 +1,6 @@
 okhv = "2.0"
-repo = "https://github.com/OPEN-NEXT/LOSH-dummy-MOSH-A"
-name = "LOSH-dummy-MOSH-A"
+repo = "https://github.com/OPEN-NEXT/LOSH-dummy-MOSH-D"
+name = "LOSH-dummy-MOSH-D"
 spdx-license = "CERN-OHL-S-2.0"
 licensor = "Martin Häuer"
 readme = "README.md"

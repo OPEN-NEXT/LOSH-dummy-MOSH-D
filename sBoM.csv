@@ -9,6 +9,5 @@ POS	NAME	UNITS	TYPE	REFERENCE
 8	W12x4 Wood Screw	16	STD	DIN 7997 4 x 12
 10	Clamp Ring	2	POSH	/3DParts/ClampRing/okh-ClampRing.toml
 11	Comb Module	5	POSH	/3DParts/CombModul/okh-CombModul.toml
-15	Module B	1	MOSH	
-16	Module C	1	MOSH	
-17	3m String	1	BUY	⌀2…3 mm, Polypropylen
+15	MTTP 12	1	MOSH	https://github.com/LibreSolar/mppt-1210-hus/tree/fe8b313af59c3da576b96878eac7e86a9cad2ac9
+16	3m String	1	BUY	⌀2…3 mm, Polypropylen
