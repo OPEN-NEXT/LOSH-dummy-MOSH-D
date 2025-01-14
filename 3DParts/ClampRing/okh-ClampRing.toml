@@ -1,12 +1,16 @@
 okhv = "2.0"
-image = "Documentation/part-pictures/Parts_Print_2.jpg"
-tsdc-id = "COM-MAN"
-manufacturing-process = "3D printed"
+name = "Clamp Ring"
+image = "../../Documentation/part-pictures/Parts_Print_2.jpg"
+tsdc = "3DP"
 material = "PLA"
-outer-dimensions = "cylinder(h=30, r=28)"
-smallest-tolerance-class = "m"
-source = "/3DParts/ClampRing/ClampRing.scad"
+source = "ClampRing.scad"
 export = [
-  "/3DParts/ClampRing/ClampRing.pdf",
-  "/3DParts/ClampRing/ClampRing.stl"
+  "ClampRing.pdf",
+  "ClampRing.stl"
 ]
+smallest-tolerance-class = "m"
+
+[outer-dimensions]
+widht = 28
+height = 30
+depth = 28
